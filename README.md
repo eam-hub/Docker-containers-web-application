@@ -8,6 +8,9 @@ Certainly! Here’s a detailed README for your project based on the steps and in
 
 This project involves deploying a web application using Docker containers, managed by AWS ECS (Elastic Container Service) with the Fargate launch type, and stored in AWS ECR (Elastic Container Registry). The infrastructure includes a 3-tier VPC setup, NAT gateway, security groups, and RDS instances. The application is deployed with secure access and scalable management.
 
+![image](https://github.com/user-attachments/assets/2b9ab5c8-9270-4d8f-9af6-db049cf41432)
+
+
 ## Project Structure
 
 - **Dockerfile**: Containerizes the web application.
