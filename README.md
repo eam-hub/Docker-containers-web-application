@@ -173,10 +173,3 @@ This project involves deploying a web application using Docker containers, manag
 - [Docker Documentation](https://docs.docker.com/)
 - [Flyway Documentation](https://flywaydb.org/documentation/)
 
-## License
-
-Specify the license under which your project is distributed, if applicable.
-
----
-
-Feel free to adjust this README to match your exact setup and additional project-specific details.
