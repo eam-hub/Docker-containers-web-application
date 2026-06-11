@@ -21,7 +21,7 @@ This project involves deploying a web application using Docker containers, manag
 
 ## Prerequisites
 
-- **GitHub Account**: To store application code and Dockerfile.
+- **GitHub Account**: 2 different repositories one to store application code and another for Dockerfile.
 - **Key Pairs**: For cloning the GitHub repository and SSH access.
 - **Git**: Version control system.
 - **Visual Studio Code**: For editing scripts and Dockerfile.
