@@ -288,6 +288,7 @@ Store:
 
 * Database Username
 * Database Password
+* Database Name
 * GitHub Personal Access Token
 
 Application containers retrieve secrets during runtime.
