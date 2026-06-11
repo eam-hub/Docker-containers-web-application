@@ -214,7 +214,6 @@ Benefits:
 
 * No public jump server required
 * Secure access to private resources
-* Reduced attack surface
 
 ---
 
