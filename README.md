@@ -4,7 +4,7 @@
 
 This project demonstrates the deployment of a containerized web application on AWS using Docker and Amazon ECS with Fargate. The infrastructure was designed using a highly available three-tier architecture spanning multiple Availability Zones.
 
-The application Docker image is stored in Amazon ECR and deployed to ECS Fargate tasks behind an Application Load Balancer. Supporting infrastructure includes a custom VPC, public and private subnets, NAT Gateway, Route 53, ACM SSL certificates, RDS MySQL, AWS Secrets Manager, and EC2 Instance Connect Endpoint (EICE) for secure administration.
+The application Docker image is stored in Amazon ECR and deployed to ECS Fargate tasks behind an Application Load Balancer. Infrastructure includes a VPC, public and private subnets, NAT Gateway, Route 53, ACM SSL certificates, RDS MySQL, AWS Secrets Manager, and EC2 Instance Connect Endpoint (EICE).
 
 
 ![image](https://github.com/user-attachments/assets/2b9ab5c8-9270-4d8f-9af6-db049cf41432)
