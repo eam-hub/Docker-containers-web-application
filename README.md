@@ -237,7 +237,7 @@ Permissions:
 
 Permissions:
 
-* Retrieve application secrets
+* Retrieve db credentials that are stored in AWS Secrets Manager
 
 ## Create EC2 IAM Role
 
