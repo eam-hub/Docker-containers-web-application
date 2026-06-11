@@ -43,7 +43,7 @@ This project involves deploying a web application using Docker containers, manag
 
 4. **Subnets**:
    - **Public Subnets**: One in each AZ for resources like Bastion Host, NAT Gateway, and Application Load Balancer (ALB).
-   - **Private Subnets**: One in each AZ for Web Servers and RDS instances.
+   - **Private Subnets**: Two in each AZ. One for Web Servers and one for RDS instances.
 
 5. **Route Tables**:
    - **Public Route Table**: Connects to the Internet Gateway and is associated with public subnets.
